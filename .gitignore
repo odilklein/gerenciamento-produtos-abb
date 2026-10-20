@@ -2,3 +2,6 @@ abb
 abb_asan
 asan.txt
 vg.txt
+_builder_base.py
+gerar_pdf.py
+saida_limpa.txt
