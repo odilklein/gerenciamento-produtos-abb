@@ -3,7 +3,7 @@
  *  Sistema de Gerenciamento de Produtos com Arvore Binaria de Busca (ABB)
  * ===========================================================================
  *  Disciplina: Estrutura de Dados
- *  Curso: Analise e Desenvolvimento de Sistemas - Fatec Araras
+ *  Curso: Desenvolvimento de Software Multiplataforma - Fatec Araras
  *  Aluno:  Odil Klein da Silva Neto
  *  Professor: Ederaldo Luiz Ratz
  * --------------------------------------------------------------------------
