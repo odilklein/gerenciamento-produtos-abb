@@ -1,0 +1,525 @@
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 50 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 30 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 70 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 20 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 40 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 60 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 80 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 35 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [ok] Produto 45 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Total de produtos cadastrados: 9
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Produtos sem filhos (folhas): 5
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Altura da arvore = 3 arestas.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   COD    DESCRICAO                      PRECO        QTD
+  20     Webcam Logitech C920           R$   399.90  qtd: 15
+  30     Mouse Logitech MX              R$   250.50  qtd: 40
+  35     SSD NVMe 512GB                 R$   320.00  qtd: 50
+  40     Monitor Dell 24 polegadas      R$  1200.00  qtd:  8
+  45     HD Externo 2TB                 R$   480.00  qtd: 12
+  50     Notebook Lenovo IdeaPad        R$  3500.00  qtd: 10
+  60     Headset HyperX Cloud           R$   350.00  qtd: 30
+  70     Teclado Mecanico Redragon      R$   450.00  qtd: 25
+  80     Cadeira Gamer DT3              R$  1800.00  qtd:  5
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   COD    DESCRICAO                      PRECO        QTD
+  50     Notebook Lenovo IdeaPad        R$  3500.00  qtd: 10
+  30     Mouse Logitech MX              R$   250.50  qtd: 40
+  20     Webcam Logitech C920           R$   399.90  qtd: 15
+  40     Monitor Dell 24 polegadas      R$  1200.00  qtd:  8
+  35     SSD NVMe 512GB                 R$   320.00  qtd: 50
+  45     HD Externo 2TB                 R$   480.00  qtd: 12
+  70     Teclado Mecanico Redragon      R$   450.00  qtd: 25
+  60     Headset HyperX Cloud           R$   350.00  qtd: 30
+  80     Cadeira Gamer DT3              R$  1800.00  qtd:  5
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   COD    DESCRICAO                      PRECO        QTD
+  20     Webcam Logitech C920           R$   399.90  qtd: 15
+  35     SSD NVMe 512GB                 R$   320.00  qtd: 50
+  45     HD Externo 2TB                 R$   480.00  qtd: 12
+  40     Monitor Dell 24 polegadas      R$  1200.00  qtd:  8
+  30     Mouse Logitech MX              R$   250.50  qtd: 40
+  60     Headset HyperX Cloud           R$   350.00  qtd: 30
+  80     Cadeira Gamer DT3              R$  1800.00  qtd:  5
+  70     Teclado Mecanico Redragon      R$   450.00  qtd: 25
+  50     Notebook Lenovo IdeaPad        R$  3500.00  qtd: 10
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a consultar:   Produto encontrado:
+  Codigo......: 35
+  Descricao...: SSD NVMe 512GB
+  Preco.......: R$ 320.00
+  Quantidade..: 50
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a consultar:   [!] Produto de codigo 99 NAO encontrado.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao: Preco: Quantidade:   [!] ERRO: codigo 40 ja cadastrado para "Monitor Dell 24 polegadas". Produto nao inserido.
+  [ok] Produto 40 inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a remover:   [ok] Remocao processada para o codigo 35.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Total de produtos cadastrados: 8
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Produtos sem filhos (folhas): 4
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a remover:   [ok] Remocao processada para o codigo 20.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Total de produtos cadastrados: 7
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Produtos sem filhos (folhas): 3
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   COD    DESCRICAO                      PRECO        QTD
+  30     Mouse Logitech MX              R$   250.50  qtd: 40
+  40     Monitor Dell 24 polegadas      R$  1200.00  qtd:  8
+  45     HD Externo 2TB                 R$   480.00  qtd: 12
+  50     Notebook Lenovo IdeaPad        R$  3500.00  qtd: 10
+  60     Headset HyperX Cloud           R$   350.00  qtd: 30
+  70     Teclado Mecanico Redragon      R$   450.00  qtd: 25
+  80     Cadeira Gamer DT3              R$  1800.00  qtd:  5
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a remover:   [ok] Remocao processada para o codigo 50.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Total de produtos cadastrados: 6
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Produtos sem filhos (folhas): 2
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   COD    DESCRICAO                      PRECO        QTD
+  30     Mouse Logitech MX              R$   250.50  qtd: 40
+  40     Monitor Dell 24 polegadas      R$  1200.00  qtd:  8
+  45     HD Externo 2TB                 R$   480.00  qtd: 12
+  60     Headset HyperX Cloud           R$   350.00  qtd: 30
+  70     Teclado Mecanico Redragon      R$   450.00  qtd: 25
+  80     Cadeira Gamer DT3              R$  1800.00  qtd:  5
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTOS - ABB          |
++--------------------------------------------+
+| 1) Cadastrar produto                       |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar em ordem CRESCENTE (em-ordem)    |
+| 4) Listar em PRE-ORDEM                     |
+| 5) Listar em POS-ORDEM                     |
+| 6) Remover produto                         |
+| 7) Contar produtos cadastrados             |
+| 8) Contar produtos sem filhos (folhas)     |
+| 9) Altura da arvore (em arestas)           |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Liberando memoria e encerrando...
